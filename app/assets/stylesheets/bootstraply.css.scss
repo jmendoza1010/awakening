@@ -1,4 +1,12 @@
+$navbar-default-bg: #002b80;
+$jumbotron-bg: #ffffb3;
 
+$btn-primary-bg: #cccccc;
 
-@import "bootstrap-sprockets"
-@import "bootstrap"
+.class
+{
+    text-align: center;
+}
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
